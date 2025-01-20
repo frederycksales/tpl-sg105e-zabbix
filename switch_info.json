@@ -1,0 +1,70 @@
+{
+    "description": [
+        "qf_switch"
+    ],
+    "mac_address": [
+        "5C:62:8B:FC:BD:21"
+    ],
+    "ip_address": [
+        "192.168.50.2"
+    ],
+    "subnet_mask": [
+        "255.255.255.0"
+    ],
+    "gateway": [
+        "192.168.50.1"
+    ],
+    "firmware": [
+        "1.0.0 Build 20230214 Rel.63440"
+    ],
+    "hardware": [
+        "TL-SG105E 5.0"
+    ],
+    "ports": [
+        {
+            "port_num": 1,
+            "state": "Enabled",
+            "link_status": "1000Full",
+            "txgoodpkt": 1594200,
+            "txbadpkt": 0,
+            "rxgoodpkt": 2731670,
+            "rxbadpkt": 0
+        },
+        {
+            "port_num": 2,
+            "state": "Enabled",
+            "link_status": "Link Down",
+            "txgoodpkt": 1956117,
+            "txbadpkt": 0,
+            "rxgoodpkt": 506125,
+            "rxbadpkt": 0
+        },
+        {
+            "port_num": 3,
+            "state": "Enabled",
+            "link_status": "1000Full",
+            "txgoodpkt": 1001400,
+            "txbadpkt": 0,
+            "rxgoodpkt": 923754,
+            "rxbadpkt": 0
+        },
+        {
+            "port_num": 4,
+            "state": "Enabled",
+            "link_status": "Link Down",
+            "txgoodpkt": 0,
+            "txbadpkt": 0,
+            "rxgoodpkt": 0,
+            "rxbadpkt": 0
+        },
+        {
+            "port_num": 5,
+            "state": "Enabled",
+            "link_status": "Link Down",
+            "txgoodpkt": 0,
+            "txbadpkt": 0,
+            "rxgoodpkt": 0,
+            "rxbadpkt": 0
+        }
+    ]
+}
